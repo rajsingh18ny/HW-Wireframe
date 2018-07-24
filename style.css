@@ -1,0 +1,74 @@
+/* CSS Document *7
+
+*/
+body{
+    margin: 0px;
+
+}
+.container {
+   background: #777;
+    padding: 40px;
+    height: 100vh;
+    text-align: center;
+}
+
+header {
+    background:#ebebeb;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+
+nav {
+  padding: 40px;
+  background:#ebebeb;
+ }
+.wrap {
+    margin: auto;
+    width: 1000px;
+    clear: both;
+}
+section {
+  background:#ebebeb;
+  width: 60%;
+  margin-right: 5%;
+  float: left;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  padding-top: 25px;
+}
+aside{
+    width: 35%;
+    background: #ebebeb;
+    float: right;
+    margin-top: 40px;
+    height: 220px;
+  }
+article {
+  background: #777;
+  color: #ebebeb;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 25px;
+}
+
+h1 {
+  background:#ebebeb;
+  margin-right: 40px;
+    margin-left: 40px;
+    color: black;
+}
+
+p {
+  background:#ebebeb;
+  margin-right: 40px;
+    margin-left: 40px;
+    color: black;
+}
+footer{
+  background:#ebebeb;
+    padding: 40px;
+    margin-bottom: 40px;
+    clear: both;
+    margin-top: 40px;
+}
